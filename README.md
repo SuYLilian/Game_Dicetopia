@@ -1,2 +1,2 @@
 # Game_Dicetopia
- This is a cooperative two-player game.
+ This is a turn-based battle game.
