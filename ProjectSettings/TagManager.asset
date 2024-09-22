@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Post
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1622047099
+    locked: 0
+  - name: SkillArray
+    uniqueID: 3040774497
+    locked: 0
+  - name: Role
+    uniqueID: 2824931919
+    locked: 0
+  - name: UI
+    uniqueID: 280897799
+    locked: 0
+  - name: CloseUp
+    uniqueID: 2818027979
+    locked: 0
+  - name: Tutorial
+    uniqueID: 2745910205
+    locked: 0
